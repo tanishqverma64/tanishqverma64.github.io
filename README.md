@@ -1,5 +1,3 @@
-# Data Scientist
-
 #### Technical Skills: 
 - **Languages and Programs:** Python, SQL, HTML, CSS, JavaScript, Google Cloud Platform, C and C++, Jenkins, Kubertness, Automation Scripts.
 - **Operating Systems:** Linux and Windows
@@ -37,7 +35,7 @@
 
 ## High School.
 **Graduated Grade 12 in Physics, Maths and Chemistry**   (_Mar 2020_)
-Amity International School, India
+- Amity International School, India
 
 
 ## Technical Certifications (Coursera)
