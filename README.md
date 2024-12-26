@@ -26,8 +26,7 @@
 
 **Information Technology Co-op (_May 2023- Aug 2023_)**
 - (_Aerosports Parks, Oakville Canada_)
-- Assisted the project team in building data structures, to build the cloud platform for
-connecting networks of four locations of the entertainment park.
+- Assisted the project team in building data structures, to build the cloud platform for connecting networks of four locations of the entertainment park.
 - Helped convert the old on premises network to cloud-based infrastructure.
 
 **Crew Member (_Apr 2022- Aug 2022_)**
@@ -41,7 +40,7 @@ connecting networks of four locations of the entertainment park.
 Amity International School, India
 
 
-### TECHNICAL CERTIFICATIONS (Coursera)
+## Technical Certifications (Coursera)
 **Agile Project Management**  (_June 2023_)
 - Covered approach to planning and guiding project processes, emphasizing flexibility, collaboration, and customer feedback. Learned basics of incremental progress, adaptability, and delivering functional products in short cycles.
 
