@@ -1,71 +1,59 @@
-#### KEY INTEREST AREAS
-Networking | Programming | Cyber Security | Networking Security | Information Technology | Infosec (Information Security)
+# Data Scientist
 
-#### TECHNICAL SKILLS
-Languages and Programs: Python, SQL, HTML, CSS, JavaScript, Google Cloud Platform, C and C++, Jenkins, Kubertness, Automation Scripts.
-Operating Systems: Linux and Windows
-Development tools: Basic understanding of JIRA, GIT, Bitbucket, VLAN, IP Networks, Routing Protocols
+#### Technical Skills: 
+- Languages and Programs: Python, SQL, HTML, CSS, JavaScript, Google Cloud Platform, C and C++,
+- Jenkins, Kubertness, Automation Scripts.
+- Operating Systems: Linux and Windows
+- Development tools: Basic understanding of JIRA, GIT, Bitbucket, VLAN, IP Networks, Routing Protocols
 
-## WORK EXPERIENCE
-**Networking Systems Co-Op**  (_May 2024- Aug 2024_)
-Techahead Corp, ON Canada
-• Assisted in identifying and resolving network connectivity issues for the hardware.
-• Performed basic troubleshooting for hardware and software network problems.
-• Documented issues and solutions for future reference.
+## Education
+- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
+- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
+- B.S., Physics | The University of Texas at Dallas (_May 2017_)
 
-**Skycafe**
-Ottawa Int. Airport, YOW Canada                                            (_Sept 2024- Dec 2024_)
-● Warehouse Associate responsible for catering flights.
-● Responsible for stocking/maintaining cleanliness of the warehouse.
-● Have acquired security clearance for the airport. (yellow RAIC)
+## Work Experience
+**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
+- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
+- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
-**Information Technology Co-op**
-Aerosports Parks, Oakville Canada                                          (_May 2023- Aug 2023_)
-● Assisted the project team in building data structures, to build the cloud platform for
-connecting networks of four locations of the entertainment park.
-● Helped convert the old on premises network to cloud-based infrastructure.
+**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
+- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
+- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
-**Crew Member**                                                               (_Apr 2022- Aug 2022_)
-McDonalds, SK Canada
-● Taking orders and responsible for Inventory Management.
-● Responsible for handling cash transactions and operating the point of sales system.
-● Maintenance and cleanliness of the premises.
+## Projects
+### Data-Driven EEG Band Discovery with Decision Trees
+[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-### PROFESSIONAL EDUCATION
-Bachelor of Information Technology specialization in Networking Technology     (_Sept 2022- 2026_)
-Carleton University, Canada (in partnership with Algonquin College)
+Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
-The key highlights of the NET program are design, analysis, and management of various network
-configurations and cybersecurity.
-The program is structured around Cisco CCNA, CCNP, and CCIE certification.
+![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### HIGH SCHOOL
-Graduated Grade 12 in Physics, Maths and Chemistry                                     (_Mar 2020_)
-Amity International School, India
+### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
+[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
-### TECHNICAL CERTIFICATIONS (Coursera)
-**Agile Project Management**                                                                    (_June 2023_)
-Covered approach to planning and guiding project processes, emphasizing flexibility, collaboration, and
-customer feedback. Learned basics of incremental progress, adaptability, and delivering functional
-products in short cycles.
+Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
-**DevOps Culture and Mindset**                                                                (_July 2023_)
-Basics of DevOps culture and mindset for collaboration between software development and IT
-operations teams, emphasizing automation, continuous integration, and rapid delivery.
+![Bike Study](/assets/img/bike_study.jpeg)
 
-**Foundations of Cybersecurity**                                                               (_August 2023_)
-Foundations of Cybersecurity with the fundamental principles and practices designed to protect systems,
-networks, and data from cyber threats. Learned a mix of technical measures, policies, and user
-awareness to guard against digital attacks and breaches.
+## Talks & Lectures
+- Causality: The new science of an old question - GSP Seminar, Fall 2021
+- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
+- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
+- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
+- Weeks of Welcome Poster Competition - UTD, Fall 2019
+- A Brief Introduction to Networks - GSP Seminar, Spring 2019
 
-**Google Cloud Fundamentals**                                                                (_August 2023_)
-Core Infrastructure with the basic services, architecture, and tools of the Google Cloud Platform for
-computing, storage, and networking.
+- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
-### VOLUNTEER WORK
-Dhruva Foundation                                                                         (_June 2020-Feb 2022_)
-Volunteered for teaching underprivileged kids during Covid and organized a donation drive for phones
-and laptops for online teaching. Helped more than 40 kids continue their education with the initiative
+## Publications
+1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
+2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
+3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
+4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
+5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
+6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
+7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
+8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
+9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
 
-### PERSONAL DETAILS
-Canadian Permanent Resident
+- [Data Science Blog](https://medium.com/@shawhin)
